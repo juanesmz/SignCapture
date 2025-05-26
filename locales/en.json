@@ -1,0 +1,37 @@
+{
+    "menu_window": {
+        "title": "Choose your desired module:",
+        "video": "DataSet Creation",
+        "visualizar": "DataSet Visualization",
+        "procesar": "Data Postprocessing"
+    },
+    "startup_window": {
+        "title_c1": "Select the camera:",
+        "title_c2_1": "Categories to record:",
+        "title_c2_2": "Recordings per sign:",
+        "title_c3": "Select destination folder:",
+        "search_button": "Search",
+        "dropdown_cam": "Camera",
+        "continue_button": "Continue"
+    },
+    "main_window": {
+        "record_btn": "Record",
+        "stop_btn": "Stop",
+        "video_label": ["Sign", "of"]
+    },
+    "visual_window": {
+        "sel_vid_label":"Choose your desired video:",
+        "sel_sign_label":"Coose your desired sign:",
+        "play_btn":"Play"
+    },
+    "postprocessing_window": {
+        "title": "DataSet Folder:",
+        "title2": "Folder to save data:",
+        "search_button": "Search",
+        "start_button": "Start postprocessing",
+        "Spinbox_label": "Augmentation factor:"
+    },
+    "loading_screen":{
+        "title":"Loading"
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "menu_window": {
+        "title": "Escoge el módulo deseado:",
+        "video": "Creación del conjunto de datos",
+        "visualizar": "Visualización del conjunto de datos",
+        "procesar": "Postprocesamiento de datos"
+    },
+    "startup_window": {
+        "title_c1": "Selecciona la cámara:",
+        "title_c2_1": "Categorías para grabar:",
+        "title_c2_2": "Grabaciones por seña:",
+        "title_c3": "Selecciona la carpeta de destino:",
+        "search_button": "Buscar",
+        "dropdown_cam": "Cámara",
+        "continue_button": "Continuar"
+    },
+    "main_window": {
+        "record_btn": "Grabar",
+        "stop_btn": "Detener",
+        "video_label": ["Seña", "de"]
+    },
+    "visual_window": {
+        "sel_vid_label":"Escoja el video que desea:",
+        "sel_sign_label":"Escoja la seña que desea:",
+        "play_btn":"Reproducir"
+    },
+    "postprocessing_window": {
+        "title": "Carpeta del conjunto de datos:",
+        "title2": "Carpeta para guardar los datos:",
+        "search_button": "Buscar",
+        "start_button": "Iniciar Postprocesamiento",
+        "Spinbox_label": "Factor de aumento:"
+    },
+    "loading_screen":{
+        "title":"Cargando"
+    }
+}
