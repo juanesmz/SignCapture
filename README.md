@@ -7,12 +7,12 @@ Este proyecto proporciona una interfaz gráfica para el proceso de captura de vi
 
 
 ## Requirements | Requisitos 
-- Python 3.12.6
+- Python 3.12.3
 
 ## Installation | Instalación
 1. Create an environment with the required Python version | Cree un entorno con la versión de python requerida
 ```bash
-conda create --name env_name python=3.12.6
+conda create --name env_name python=3.12.3
 ```
 2. Install the dependencies | Instale las dependencias
 ```bash
